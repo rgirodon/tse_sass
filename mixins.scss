@@ -1,6 +1,5 @@
 @mixin theme($p_color: DarkGray) {
   background: $p_color;
-  box-shadow: 0 0 1px rgba($p_color, .25);
   color: #fff;
 }
 
